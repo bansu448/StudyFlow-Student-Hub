@@ -10,16 +10,4 @@ Includes:
 
 The button rendering uses a basic Swing button UI to avoid Windows Look-and-Feel white buttons with invisible white text.
 Use JDK 17+ (JDK 21 recommended).
-
-Run:
-1. Extract ZIP.
-2. Open this folder.
-3. Double-click run.bat.
-
-PowerShell:
-  javac -encoding UTF-8 -d out src\StudyFlow.java
-  java -cp out StudyFlow
-
-Saved tasks: %USERPROFILE%\.studyflow\tasks.txt
-
 Chatbot note: Study Buddy uses local prepared explanations. It is not a live AI model.
