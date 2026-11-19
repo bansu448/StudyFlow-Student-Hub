@@ -46,3 +46,6 @@ java -cp out StudyFlow
 Java Mini Project – StudyFlow Student Hub
 
 *Note: Study Buddy currently uses prepared offline explanations, not a live AI model.*
+## 📸 Project Screenshot
+
+![StudyFlow Dashboard](Screenshot%202026-11-19%20203302.png)
